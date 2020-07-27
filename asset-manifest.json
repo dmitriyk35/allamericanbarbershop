@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/allamericanbarbershop/static/css/main.fbfad1f5.chunk.css",
-    "main.js": "/allamericanbarbershop/static/js/main.f7f2caf3.chunk.js",
-    "main.js.map": "/allamericanbarbershop/static/js/main.f7f2caf3.chunk.js.map",
+    "main.js": "/allamericanbarbershop/static/js/main.9aa56030.chunk.js",
+    "main.js.map": "/allamericanbarbershop/static/js/main.9aa56030.chunk.js.map",
     "runtime-main.js": "/allamericanbarbershop/static/js/runtime-main.7ca277e3.js",
     "runtime-main.js.map": "/allamericanbarbershop/static/js/runtime-main.7ca277e3.js.map",
     "static/css/2.af3c1da9.chunk.css": "/allamericanbarbershop/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.3b37e0ba.chunk.js": "/allamericanbarbershop/static/js/2.3b37e0ba.chunk.js",
-    "static/js/2.3b37e0ba.chunk.js.map": "/allamericanbarbershop/static/js/2.3b37e0ba.chunk.js.map",
+    "static/js/2.ba6bd0f0.chunk.js": "/allamericanbarbershop/static/js/2.ba6bd0f0.chunk.js",
+    "static/js/2.ba6bd0f0.chunk.js.map": "/allamericanbarbershop/static/js/2.ba6bd0f0.chunk.js.map",
     "index.html": "/allamericanbarbershop/index.html",
-    "precache-manifest.e5d6f163d283288f78cdedd58211f5e1.js": "/allamericanbarbershop/precache-manifest.e5d6f163d283288f78cdedd58211f5e1.js",
+    "precache-manifest.db049896fe286d0758b84f00d73f3f44.js": "/allamericanbarbershop/precache-manifest.db049896fe286d0758b84f00d73f3f44.js",
     "service-worker.js": "/allamericanbarbershop/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/allamericanbarbershop/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.fbfad1f5.chunk.css.map": "/allamericanbarbershop/static/css/main.fbfad1f5.chunk.css.map",
-    "static/js/2.3b37e0ba.chunk.js.LICENSE.txt": "/allamericanbarbershop/static/js/2.3b37e0ba.chunk.js.LICENSE.txt",
+    "static/js/2.ba6bd0f0.chunk.js.LICENSE.txt": "/allamericanbarbershop/static/js/2.ba6bd0f0.chunk.js.LICENSE.txt",
     "static/media/facebook-logo.png": "/allamericanbarbershop/static/media/facebook-logo.5d6ab587.png",
     "static/media/insta.png": "/allamericanbarbershop/static/media/insta.86f33cfc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7ca277e3.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.3b37e0ba.chunk.js",
+    "static/js/2.ba6bd0f0.chunk.js",
     "static/css/main.fbfad1f5.chunk.css",
-    "static/js/main.f7f2caf3.chunk.js"
+    "static/js/main.9aa56030.chunk.js"
   ]
 }

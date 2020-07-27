@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c80beacb9c5eaea19da7d4f9547ab38",
+    "revision": "dc413537820c08a37b19db2f75eea619",
     "url": "/allamericanbarbershop/index.html"
   },
   {
-    "revision": "1c2e12db506cfacdd371",
+    "revision": "07c00a6ebcec1837d2a2",
     "url": "/allamericanbarbershop/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "d822cd63241f116110f7",
+    "revision": "6345707d2b32da2a96cd",
     "url": "/allamericanbarbershop/static/css/main.fbfad1f5.chunk.css"
   },
   {
-    "revision": "1c2e12db506cfacdd371",
-    "url": "/allamericanbarbershop/static/js/2.3b37e0ba.chunk.js"
+    "revision": "07c00a6ebcec1837d2a2",
+    "url": "/allamericanbarbershop/static/js/2.ba6bd0f0.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/allamericanbarbershop/static/js/2.3b37e0ba.chunk.js.LICENSE.txt"
+    "url": "/allamericanbarbershop/static/js/2.ba6bd0f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d822cd63241f116110f7",
-    "url": "/allamericanbarbershop/static/js/main.f7f2caf3.chunk.js"
+    "revision": "6345707d2b32da2a96cd",
+    "url": "/allamericanbarbershop/static/js/main.9aa56030.chunk.js"
   },
   {
     "revision": "e708542acb24df3c948a",
